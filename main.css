@@ -1,0 +1,38 @@
+.inline {
+    display: inline;
+    padding: 10px;
+}
+
+#middleBar {
+    border-style: solid;
+    margin-top: 5px;
+    margin-bottom: 0 !important;
+}
+
+#backGroundCat {
+    background: url(images/catBackground.jpg) center;
+    background-size: 100%;
+    color: white;
+    margin-top: 10px;
+}
+
+.meowCoinBlock {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#signUpRow {
+    background-color: skyblue;
+}
+
+.whiteText {
+    color: white;
+}
+
+#middleBackground {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
