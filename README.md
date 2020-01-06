@@ -1,2 +1,0 @@
-# MeowCoin
-MeowCoin Webpage
